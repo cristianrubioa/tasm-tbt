@@ -1,4 +1,4 @@
-# tasm_0
+# tasm_tbt
 
 ## Brief
 
@@ -8,7 +8,7 @@
 
 
 
-> DOS emulation environment configuration in addition to the assembly of the work unit to run some of the code fragments .asm implemented and/or prototypes made some time ago as an initiation to this language. -> 
+> DOS emulation environment configuration in addition to the assembly of the work unit to run some of the code snippets .asm implemented and/or prototypes made some time ago as an initiation to this language. -> 
 "If you have any doubts, open an [issue](https://github.com/cristianrubioa/tasm_tbt/issues/new)"
 
 
