@@ -77,6 +77,6 @@ bandera
 
 
 ## Snippets:
-- resistor_calc.asm 
-- mayus.asm
-- minus.asm
+- rescal.asm -> Resistor color calculator prototype (unfinished)
+- mayus.asm  -> Convert text to upper case
+- minus.asm  -> Convert text to lower case
