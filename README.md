@@ -25,7 +25,7 @@ cd tasm_tbt/
 - Print working directory ```pwd```
 ```
 pwd
-> /Users/user/dir/.../tasm_tbt/      #e.g. path
+> /Users/<user>/Desktop/tasm_tbt      #e.g. path
 ```
 
 ## Mount unit
@@ -36,7 +36,7 @@ keyb sp 850
 ```
 - Mount working directory
 ```
-MOUNT C: /Users/user/dir/.../tasm_tbt/
+MOUNT C: /Users/<user>/Desktop/tasm_tbt
 C:
 ```
 
@@ -67,11 +67,11 @@ t
 - Take a .asm code and generate executable, ```bandera.asm``` for example
 
 ```
-tasm bandera.asm
-tlink bandera.obj
+tasm mayus.asm
+tlink mayus.obj
 
 # Run
-bandera
+mayus
 ```
 **Note:** is the same step for each .asm file.
 
@@ -80,3 +80,13 @@ bandera
 - rescal.asm -> Resistor color calculator prototype (unfinished)
 - mayus.asm  -> Convert text to upper case
 - minus.asm  -> Convert text to lower case
+
+## EMU8086:
+
+8086 microprocessor emulator with built-in assembler.
+
+- Install [emu8086](https://github.com/cristianrubioa/tasm_tbt/tree/main/emu8086) emulator found in the folder
+
+**Note:** with this emulator you can also program in assembly language since it has an integrated editor.
+
+
